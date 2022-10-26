@@ -1,0 +1,14 @@
+The new python version 3.11 is 30 - 60 % faster than the previous ones , 
+You cannot compare with Machine Language like C++ but its faster than its previous versions . 
+
+
+Link for the python docs for 3.11 version . 
+
+Updates  : 
+1. error pointer ( link : )
+2. adding notes to the exceptions . ( link : )
+3. Grouping Exceptions . ( link : )
+4. Introduction of Self variable for type hinting . (link : )
+5. New Type hinting features . (link : )
+6. Task grouping for asyncio using context manager . (link : )
+7. Ability to read tomllib files . ( link : )

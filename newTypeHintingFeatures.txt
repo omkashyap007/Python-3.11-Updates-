@@ -1,0 +1,27 @@
+Type hinting : 
+
+type hinting tells that what type of variable function , or variable accepts and what type of object 
+a varibale is . 
+
+with 3.11  you can define python type hints :: 
+
+a : int = 10
+b : dict[int , str] = {"number" : 10  }
+
+def function(username : str) :
+    print("This way you can tell what type of object function accepts ")
+
+also this is useful for ai or the code editor for the suggestions . 
+this feature was in previous versions , but this has become lot better . 
+
+if you define the type hint , you will get suggestions as you hit tab 
+
+example : 
+def function(name : str) :
+    name.<tab>
+    isalpha()
+    isalnum()
+    all the suggestions will be given . 
+
+for type hinting on more advance level , we do have typing module .
+import typing
