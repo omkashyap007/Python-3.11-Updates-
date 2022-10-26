@@ -1,6 +1,7 @@
 The new python version 3.11 is 30 - 60 % faster than the previous ones , 
 You cannot compare with Machine Language like C++ but its faster than its previous versions . 
 
+Make sure to download python 3.11 from python.org , the files will work then only . 
 
 Link for the python docs for 3.11 version . 
 
