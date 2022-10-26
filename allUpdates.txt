@@ -5,10 +5,16 @@ You cannot compare with Machine Language like C++ but its faster than its previo
 Link for the python docs for 3.11 version . 
 
 Updates  : 
-1. error pointer ( link : )
-2. adding notes to the exceptions . ( link : )
-3. Grouping Exceptions . ( link : )
-4. Introduction of Self variable for type hinting . (link : )
-5. New Type hinting features . (link : )
-6. Task grouping for asyncio using context manager . (link : )
-7. Ability to read tomllib files . ( link : )
+1. error pointer ( link : https://github.com/omkashyap007/Python-3.11-Updates-/blob/master/errorCheck.py)
+
+2. adding notes to the exceptions . ( link : https://github.com/omkashyap007/Python-3.11-Updates-/blob/master/addNotesToException.py)
+
+3. Grouping Exceptions . ( link :https://github.com/omkashyap007/Python-3.11-Updates-/blob/master/exceptionGroups.py )
+
+4. Introduction of Self variable for type hinting . (link : https://github.com/omkashyap007/Python-3.11-Updates-/blob/master/selfVariable.py )
+
+5. New Type hinting features . (link : https://github.com/omkashyap007/Python-3.11-Updates-/blob/master/newTypeHintingFeatures.py)
+
+6. Task grouping for asyncio using context manager . (link : https://github.com/omkashyap007/Python-3.11-Updates-/blob/master/taskGrouping.py )
+
+7. Ability to read tomllib files . ( link : https://github.com/omkashyap007/Python-3.11-Updates-/blob/master/tomllib.py)
